@@ -30,6 +30,10 @@ if ENABLE_DEVHELP
 SUBDIRS += devhelp
 endif
 
+if ENABLE_FOLDBYLEVEL
+SUBDIRS += foldbylevel
+endif
+
 if ENABLE_GEANYDOC
 SUBDIRS += geanydoc
 endif

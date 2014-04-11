@@ -101,6 +101,9 @@ devhelp/devhelp/ige-conf-gconf.c
 devhelp/devhelp/ige-conf.h
 devhelp/devhelp/ige-conf-private.h
 
+# FoldByLevel
+foldbylevel/src/foldbylevel.c
+
 # geanydoc
 geanydoc/tests/unittests.c
 geanydoc/src/config.c
